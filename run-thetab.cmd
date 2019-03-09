@@ -1,1 +1,0 @@
-python3 main.py https://thetab.com/uk/exeter/2019/03/07/vote-for-exeters-most-eligible-bachelor-heat-three-2-41350 Hugo 0.2
