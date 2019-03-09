@@ -1,4 +1,4 @@
-# mosteligiblebatchelor
+# Most Eligible Batchelor
 Assist your favourite candidate in The Tab's Most Eligible Batchelor
 
 ## Usage
